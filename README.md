@@ -19,5 +19,8 @@ Please email me at [beimingh@andrew.cmu.edu].
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 </p>
 
-# Please Connect me at 
-
+# Contact 
+You can always find me at 
+<a href="https://www.instagram.com/jokerwoo">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
