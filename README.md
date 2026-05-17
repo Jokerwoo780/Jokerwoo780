@@ -4,7 +4,7 @@
 
 <img src="https://count.moeyy.cn/@Jokerwoo780?name=Jokerwoo780&theme=miku&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt=":Jokerwoo780" />
 
-# About me
+# About the Wizard
 <div align="center">
   <img src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true" style="width: 60%" />
 </div>
@@ -28,7 +28,7 @@ You may always find me at
 </p>
 
 
-# Magic Wands... 
+# Magic happens... 
 </div>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
