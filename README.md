@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Ciallo ∠・ω< ⌒ &height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Ciallo! &height=100&section=header"/>
 </p>
 
 <img src="https://count.moeyy.cn/@Jokerwoo780?name=Jokerwoo780&theme=miku&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt=":Jokerwoo780" />
