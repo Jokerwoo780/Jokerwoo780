@@ -5,6 +5,10 @@
 <img src="https://count.moeyy.cn/@Jokerwoo780?name=Jokerwoo780&theme=miku&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt=":Jokerwoo780" />
 
 # About me
+<div align="center">
+  <img src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true" style="width: 60%" />
+</div>
+
 A grad student from CMU CEE. I went to CMU because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
 
 For any queries, please email me at [email](beimingh@andrew.cmu.edu)
@@ -24,11 +28,7 @@ You may always find me at
 </p>
 
 
-<h2> 🚀 &nbsp;Some Tools </h2>
-<div align="center">
-  <img src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true" style="width: 60%" />
-</div>
-
+# Magic Wands... 
 </div>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
