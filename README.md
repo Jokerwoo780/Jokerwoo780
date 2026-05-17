@@ -3,10 +3,11 @@
 # About me
 A grad student from CMU CEE. I went to CMU because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
 
+
 ![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true)
 
 <h2> 🚀 &nbsp;Some Tools </h2>
-
+![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
