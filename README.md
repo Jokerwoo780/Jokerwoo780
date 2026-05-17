@@ -3,13 +3,12 @@
 # About me
 A grad student from CMU CEE. I went to CMU because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
 
-Please email me at [beimingh@andrew.cmu.edu]
+Please email me at [beimingh@andrew.cmu.edu].
 
 ![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true)
 
-<h2> 🚀 &nbsp;Some Tools </h2>
 
-![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Compiler.png?raw=true)
+<h2> 🚀 &nbsp;Some Tools </h2>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -17,5 +16,6 @@ Please email me at [beimingh@andrew.cmu.edu]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 </p>
+
