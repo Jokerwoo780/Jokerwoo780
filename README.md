@@ -1,11 +1,7 @@
-# About me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
 <img src="https://count.moeyy.cn/@Jokerwoo780?name=Jokerwoo780&theme=miku&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt=":Jokerwoo780" />
 
+# About me
+A grad student from CMU CEE. I went to CMU because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
 ![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true)
 
 <h2> 🚀 &nbsp;Some Tools </h2>
