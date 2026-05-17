@@ -5,6 +5,20 @@ A grad student from CMU CEE. I went to CMU because I wished to live deliberately
 
 Please email me at [beimingh@andrew.cmu.edu].
 
+Moreover, You may always find me at
+<p align="center">
+
+<a href="https://www.instagram.com/jokerwoo">
+  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Instagram.png?raw=true"/>
+</a>
+<a href="https://www.instagram.com/jokerwoo">
+  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Twitter.png?raw=true"/>
+</a>
+<a href="https://www.instagram.com/jokerwoo">
+  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Linkedin.png?raw=true"/>
+</a>
+</p>
+
 ![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true)
 
 
@@ -19,17 +33,4 @@ Please email me at [beimingh@andrew.cmu.edu].
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 </p>
 
-# Contact 
-You may always find me at
-<p align="center">
 
-<a href="https://www.instagram.com/jokerwoo">
-  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Instagram.png?raw=true"/>
-</a>
-<a href="https://www.instagram.com/jokerwoo">
-  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Twitter.png?raw=true"/>
-</a>
-<a href="https://www.instagram.com/jokerwoo">
-  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Linkedin.png?raw=true"/>
-</a>
-</p>
