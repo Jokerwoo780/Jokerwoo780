@@ -1,5 +1,5 @@
 # Jokerwoo780
 
-<img src="https://count.moeyy.cn/@Jokerwoo780?name=Jokerwoo780&theme=miku&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=no" alt=":Jokerwoo780" />
+<img src="https://count.moeyy.cn/@Jokerwoo780?name=Jokerwoo780&theme=miku&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt=":Jokerwoo780" />
 
 
