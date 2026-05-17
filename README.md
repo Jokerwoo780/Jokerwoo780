@@ -3,7 +3,8 @@
 # About me
 A grad student from CMU CEE. I went to CMU because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
 
-Please email me at 
+Please email me at [beimingh@andrew.cmu.edu]
+
 ![](https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true)
 
 <h2> 🚀 &nbsp;Some Tools </h2>
