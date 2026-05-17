@@ -20,8 +20,16 @@ Please email me at [beimingh@andrew.cmu.edu].
 </p>
 
 # Contact 
+You may always find me at
 <p align="center">
+
 <a href="https://www.instagram.com/jokerwoo">
   <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Instagram.png?raw=true"/>
+</a>
+<a href="https://www.instagram.com/jokerwoo">
+  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Twitter.png?raw=true"/>
+</a>
+<a href="https://www.instagram.com/jokerwoo">
+  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Linkedin.png?raw=true"/>
 </a>
 </p>
