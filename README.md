@@ -16,7 +16,7 @@ For any queries, please email me at [email](beimingh@andrew.cmu.edu)
 You may always find me at
 <p align="center">
 
-<a href="https://www.instagram.com/jokerwoo">
+<a href="https://www.instagram.com/joker.wooo">
   <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/Instagram.png?raw=true"/>
 </a>
 <a href="https://www.instagram.com/jokerwoo">
