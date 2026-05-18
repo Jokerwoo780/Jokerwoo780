@@ -54,9 +54,8 @@ Buy me a coffee if you like
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 </div> 
 
-<video src=""C:\Users\joker\Downloads\no name.mp4"" width="600" controls>
-  Your browser does not support the video tag.
-</video>
+![no name](https://github.com/user-attachments/assets/e4c3e054-1af2-4055-8953-ad0094ffc3d5)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
