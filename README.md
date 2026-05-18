@@ -54,7 +54,9 @@ Buy me a coffee if you like
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 </div> 
 
-https://github.com/user-attachments/assets/614726f4-8b90-49f6-acc0-60930c2e349b
+<p align="center">
+<img width="860" height="230" alt="Automating" src="https://github.com/user-attachments/assets/5f312547-9f92-4b7b-a28c-6c9b8b8b4e5c" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
