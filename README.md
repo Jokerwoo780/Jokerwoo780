@@ -36,6 +36,9 @@ Buy me a coffee if you like
 </p>
 
 # Magic happens... 
+<p align="center">
+<img width="860" height="230" alt="Automating" src="https://github.com/user-attachments/assets/5f312547-9f92-4b7b-a28c-6c9b8b8b4e5c" />
+</p>
 </div>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -54,9 +57,6 @@ Buy me a coffee if you like
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 </div> 
 
-<p align="center">
-<img width="860" height="230" alt="Automating" src="https://github.com/user-attachments/assets/5f312547-9f92-4b7b-a28c-6c9b8b8b4e5c" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
