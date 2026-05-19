@@ -9,7 +9,9 @@
   <img src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true" style="width: 70%" />
 </div>
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Beiming+Hu+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+</div>
 
 A grad student from CMU CEE. 
 
