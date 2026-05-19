@@ -37,7 +37,7 @@ Buy me a coffee if you like
 
 <p align="center">
 <a href="https://www.instagram.com/joker.wooo">
-  <img height="50" src="https://github.com/Jokerwoo780/Jokerwoo780-000/blob/main/Buy%20me%20a%20coffee.png?raw=true"/>
+  <img height="50" src="https://github.com/user-attachments/assets/5b9b0084-3e08-4b36-b298-d8ca5b944b88"/>
 </a>
 </p>
 
