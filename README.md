@@ -9,7 +9,7 @@
   <img src="https://github.com/Jokerwoo780/Jokerwoo780/blob/main/wallpaper.jpeg?raw=true" style="width: 70%" />
 </div>
 
-A grad student from CMU CEE. I went to CMU because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Beiming+Hu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 For any queries, please email me at [email](beimingh@andrew.cmu.edu)
 
